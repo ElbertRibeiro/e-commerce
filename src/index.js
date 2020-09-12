@@ -1,8 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './global.css';
-import App from './pages/App';
-import * as serviceWorker from './services/serviceWorker';
+import App from './App';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -10,5 +8,3 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
-
-serviceWorker.unregister();

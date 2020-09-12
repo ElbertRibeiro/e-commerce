@@ -1,15 +1,14 @@
 import React from 'react';
-import './App.css';
 
-function App() {
+export default function Home() {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div className="Home">
+      <header className="Home-header">
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
-          className="App-link"
+          className="Home-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
@@ -20,5 +19,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
