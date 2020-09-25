@@ -15,6 +15,12 @@ export default function Home() {
             <div className="product">
                 <h1>teste</h1>
             </div>
+            <div className="cards">
+                <h2>teste</h2>
+            </div>
+            <div className="contact">
+                <h3>teste</h3>
+            </div>
         </>
     );
 }
