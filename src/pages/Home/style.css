@@ -1,4 +1,12 @@
 @media only screen and (max-device-width: 1900px) {
+    .header{
+        width: 100%;
+        height: 105px;
+        left: 0px;
+        top: 0px;
+        
+        background: rgba(242, 53, 53, 0.51);
+    }
     .logo{
         position: absolute;
         width: 138px;
@@ -6,52 +14,24 @@
         left: 0px;
         top: 0px;
     }
-    
-    .instagram{
-        position: absolute;
-        width: 48px;
-        height: 44px;
-        left: 1300px;
-        top: 54px;
-    }
-    
-    .whatsapp{
-        position: absolute;
-        width: 46px;
+    .instagram, .whatsapp{
+        width: 195%;
         height: 41px;
         left: 1300px;
-        top: 6px;
     }
     
-    .header{
-        position: absolute;
-        width: 1360px;
-        height: 105px;
-        left: 0px;
-        top: 0px;
+    
+    
+    .chapeu_marrom{
         
-        background: rgba(242, 53, 53, 0.51);
+        width: 270px;
+        height: 220px;
+        left: 33px;
+        top: 290px;
+
+        border-radius: 135px;
     }
 
-    .product{
-        position: absolute;
-        width: 1080px;
-        height: 644px;
-        left: 0px;
-        top: 105px;
-
-        background: #FFFFFF;
-    }
-
-    .cards{
-        position: absolute;
-        width: 1080px;
-        height: 644px;
-        left: 0px;
-        top: 105px;
-
-        background: #FFFFFF;
-    }
     
 } 
 
