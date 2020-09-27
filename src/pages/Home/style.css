@@ -14,11 +14,19 @@
         left: 0px;
         top: 0px;
     }
-    .instagram, .whatsapp{
-        width: 195%;
-        height: 41px;
-        left: 1300px;
+    .instagram{
+        width: 3.5%;
+        height: 44px;
+        margin-left: 95%;
+        top: 54px;
+        
     }
+    .whatsapp{
+        width: 3.5%;
+        height: 44%;
+        margin-left: 95%;
+    }
+
 
 
     .product{
