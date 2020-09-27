@@ -64,6 +64,18 @@
         left: 0px;
         top: 749px;
     }
+
+    .seta_esquerda{
+        position: relative;
+        left: 1.17%;
+        right: 95.79%;
+        top: 150.05%;
+        bottom: 43.22%;
+        width: 3%;
+
+        background: #E3F235;
+    }
+    
 }
 
 

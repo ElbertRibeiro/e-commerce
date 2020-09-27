@@ -8,8 +8,8 @@ import whatsapp from '../../assets/whatsapp.svg';
 import chapeu_marrom from '../../assets/chapeu-marrom.jpg';
 import capa_iphone from '../../assets/capa-iphone.jpg';
 import chapeu_azul from '../../assets/chapeu-azul.jpg';
-
-
+import seta_esquerda from '../../assets/seta-esquerda.svg';
+import seta_direita from '../../assets/seta-esquerda.svg';
 
 
 export default function Home() {
@@ -18,7 +18,6 @@ export default function Home() {
 
     return (
         <>
-
             <div className="header">
                 <img src={logo} alt="logo" className="logo" />
                 <img src={instagram} alt="instagram" className="instagram" />
@@ -32,8 +31,8 @@ export default function Home() {
             </div>
 
             <div className="cards">
-
-
+                <img src={seta_esquerda} alt="seta_esquerda" className="seta_esquerda" />
+                <img src={seta_direita} alt="seta_direita" className="seta_direita" />
             </div>
 
         </>
