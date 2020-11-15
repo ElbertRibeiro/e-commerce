@@ -73,9 +73,72 @@
         bottom: 43.22%;
         width: 3%;
 
-        background: #E3F235;
+        background: rgba(227, 242, 53, 1);
+    }
+
+    .seta_direita{
+        position: relative;
+        left: 92.5%;
+        top: 150.05%;
+        bottom: 43.22%;
+        width: 3%;
+        transform: rotate(180deg);
+
+        background: rgba(227, 242, 53, 1);
+    }
+
+    .modelo{
+        position: absolute;
+        width: 316px;
+        height: 318px;
+        left: 749px;
+        top: 367px;
+        border-radius: 238px;
+    }
+
+    .contato{
+        position: absolute;
+        width: 1080px;
+        height: 734px;
+        left: 0px;
+        top: 1195px;
+
+        background: #FFFFFF;
     }
     
+    .contato-text{
+        position: absolute;
+        width: 228px;
+        height: 65px;
+        left: 680px;
+        top: 157px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 64px;
+        line-height: 75px;
+
+        color: #000000;
+    }
+
+    .whatsapp-contato{
+        position: absolute;
+        width: 81px;
+        height: 78px;
+        left: 620px;
+        top: 459px;
+    }
+
+    .instagram-contato{
+        position: absolute;
+        width: 75px;
+        height: 73px;
+        left: 623px;
+        top: 562px;
+
+        background: #FFFFFF;
+    }
 }
 
 

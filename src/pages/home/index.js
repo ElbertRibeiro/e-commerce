@@ -10,7 +10,7 @@ import capa_iphone from '../../assets/capa-iphone.jpg';
 import chapeu_azul from '../../assets/chapeu-azul.jpg';
 import seta_esquerda from '../../assets/seta-esquerda.svg';
 import seta_direita from '../../assets/seta-esquerda.svg';
-
+import modelo from '../../assets/modelo1.jpg';
 
 export default function Home() {
     return (
@@ -30,6 +30,15 @@ export default function Home() {
             <div className="cards">
                 <img src={seta_esquerda} alt="seta_esquerda" className="seta_esquerda" />
                 <img src={seta_direita} alt="seta_direita" className="seta_direita" />
+            </div>
+
+            <div className="contato">
+                <h1 className="contato-text">Contato</h1>
+                <a href="https://wa.me/message/A2UOVQL66FGBC1">
+                    <img src={whatsapp} alt="whatsapp" className="whatsapp-contato" />
+                </a>
+                <a href="https://www.instagram.com/soumaisstore/"> <img src={instagram} alt="instagram" className="instagram-contato" /> </a>
+                <img src={modelo} alt="modelo" className="modelo" />
             </div>
 
         </>
