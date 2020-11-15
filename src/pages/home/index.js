@@ -13,9 +13,6 @@ import seta_direita from '../../assets/seta-esquerda.svg';
 
 
 export default function Home() {
-
-
-
     return (
         <>
             <div className="header">
