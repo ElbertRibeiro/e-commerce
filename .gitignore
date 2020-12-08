@@ -2,6 +2,8 @@
 
 /src/configs
 
+package-lock.json
+
 # dependencies
 /node_modules
 /.pnp
