@@ -161,7 +161,7 @@ export default class App extends Component {
                   this.state.showMenu ? "is-active" : ""
                 }`}>
                 <Link to="/products" className="navbar-item">
-                  Products
+                  Produtos
                 </Link>
                 {this.state.user && this.state.user.accessLevel < 1 && (
                   <Link to="/add-product" className="navbar-item">
@@ -169,7 +169,7 @@ export default class App extends Component {
                   </Link>
                 )}
                 <Link to="/cart" className="navbar-item">
-                  Cart
+                  Carrinho
                   <span
                     className="tag is-primary"
                     style={{ marginLeft: "5px" }}
