@@ -7,6 +7,6 @@ Na raiz do projeto
 Rodar
 `./node_modules/.bin/json-server-auth ./backend/db.json --port 3001`
 
-#Inspiração
+# Inspiração
 
 https://github.com/sitepoint-editors/React-Ecommerce
