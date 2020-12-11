@@ -1,4 +1,4 @@
-https://www.figma.com/file/k3vZl8UTyHS3c66qsLgUBA/Site-Sou-%2B-Store?node-id=0%3A1
+
 
 Rodar backend
 
@@ -11,3 +11,4 @@ Rodar
 # Inspiração
 
 [React-Ecommerce](https://github.com/sitepoint-editors/React-Ecommerce)
+[UI/UX](https://www.figma.com/file/k3vZl8UTyHS3c66qsLgUBA/Site-Sou-%2B-Store?node-id=0%3A1)
