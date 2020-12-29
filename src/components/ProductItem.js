@@ -36,7 +36,7 @@ const ProductItem = props => {
                   })
                 }
               >
-                Add to Cart
+                Adicionar ao Carrinho
               </button>
             </div>
           </div>

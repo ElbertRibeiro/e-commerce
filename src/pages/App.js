@@ -8,6 +8,8 @@ import Cart from '../components/Cart';
 import Login from '../components/Login';
 import ProductList from '../components/ProductList';
 
+import './App.css';
+
 import Context from "../Context";
 
 export default class App extends Component {
@@ -165,7 +167,7 @@ export default class App extends Component {
                 </Link>
                 {this.state.user && this.state.user.accessLevel < 1 && (
                   <Link to="/add-product" className="navbar-item">
-                    Add Product
+                    Adicionar Item
                   </Link>
                 )}
                 <Link to="/cart" className="navbar-item">

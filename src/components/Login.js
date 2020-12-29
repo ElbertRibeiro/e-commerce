@@ -51,7 +51,7 @@ class Login extends Component {
                 />
               </div>
               <div className="field">
-                <label className="label">Password: </label>
+                <label className="label">Senha: </label>
                 <input
                   className="input"
                   type="password"
@@ -66,7 +66,7 @@ class Login extends Component {
                 <button
                   className="button is-primary is-outlined is-pulled-right"
                 >
-                  Submit
+                  Logar
                 </button>
               </div>
             </div>

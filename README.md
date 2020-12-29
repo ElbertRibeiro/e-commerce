@@ -10,6 +10,11 @@ Rodar backend
 
 Onde dentro no script `backend` rodará o comando `./node_modules/.bin/json-server-auth ./backend/db.json --port 3001` na raiz do projeto 
 
+# Login
+
+Login: admin@example.com
+senha: password
+
 
 
 # Inspiração

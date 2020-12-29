@@ -9,7 +9,7 @@ const Cart = props => {
     <>
       <div className="hero is-primary">
         <div className="hero-body container">
-          <h4 className="title">My Cart</h4>
+          <h4 className="title">Carrinho</h4>
         </div>
       </div>
       <br />
@@ -44,7 +44,7 @@ const Cart = props => {
           </div>
         ) : (
           <div className="column">
-            <div className="title has-text-grey-light">No item in cart!</div>
+            <div className="title has-text-grey-light">Sem item no carrinho </div>
           </div>
         )}
       </div>
