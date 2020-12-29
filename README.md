@@ -6,11 +6,9 @@
 
 Rodar backend
 
-Na raiz do projeto 
+`npm run backend`
 
-Rodar
-
-`./node_modules/.bin/json-server-auth ./backend/db.json --port 3001`
+Onde dentro no script `backend` rodará o comando `./node_modules/.bin/json-server-auth ./backend/db.json --port 3001` na raiz do projeto 
 
 
 
