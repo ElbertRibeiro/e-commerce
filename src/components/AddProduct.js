@@ -71,7 +71,7 @@ class AddProduct extends Component {
           <div className="columns is-mobile is-centered">
             <div className="column is-one-third">
               <div className="field">
-                <label className="label">Product Name: </label>
+                <label className="label">Nome do Produto: </label>
                 <input
                   className="input"
                   type="text"
@@ -82,7 +82,7 @@ class AddProduct extends Component {
                 />
               </div>
               <div className="field">
-                <label className="label">Price: </label>
+                <label className="label">Preço: </label>
                 <input
                   className="input"
                   type="number"
