@@ -8,7 +8,7 @@ import Cart from '../components/Cart';
 import Login from '../components/Login';
 import ProductList from '../components/ProductList';
 
-import './App.css';
+//import './App.css';
 
 import Context from "../Context";
 
