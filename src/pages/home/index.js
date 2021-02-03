@@ -1,16 +1,12 @@
 import React from 'react';
 
-export default function HomePage() {
-    return (
-      <div className="App">
-        <header className="App-header">
-          
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>  Learn React
-          
-        </header>
-      </div>
-    );
-  }
+import Header from '../../components/Header';
+
+const Home = () => (
+      <>
+        <Header />
+      </>
+);
+
+export default Home;
   

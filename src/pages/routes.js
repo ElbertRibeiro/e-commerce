@@ -2,7 +2,7 @@ import React from 'react';
 
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
-import Home from './home';
+import Home from './home/index';
 
 const Routes = () => (
   <BrowserRouter basename={process.env.PUBLIC_URL}>
