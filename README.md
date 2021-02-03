@@ -15,6 +15,19 @@ Onde dentro no script `backend` rodará o comando `./node_modules/.bin/json-serv
 Login: admin@example.com
 senha: password
 
+# Contribuir
+
+'''
+git add {nome do arquivo}
+'''
+
+'''
+git commit -m "text"
+'''
+
+'''
+git push origin {branch}
+'''
 
 
 # Inspiração
