@@ -10,6 +10,7 @@ const GlobalStyle = createGlobalStyle`
       sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    padding: 20px 60px;
   }
   
   code {
@@ -17,6 +18,9 @@ const GlobalStyle = createGlobalStyle`
       monospace;
   }
   
+  * {
+    box-sizing: border-box;
+  }
 `;
 
 export default GlobalStyle;

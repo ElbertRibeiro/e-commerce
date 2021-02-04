@@ -1,0 +1,16 @@
+header {
+    align-items: center;
+    justify-content: flex-end;
+    display: flex;
+}
+
+header, h4 {
+    padding: 10px 20px;
+}
+
+.Logo {
+    margin-right: 750px;
+    margin-top: 10px;
+
+    width: 6%;
+}
