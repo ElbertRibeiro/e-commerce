@@ -11,11 +11,11 @@ senha: password
 
 # Contribuir
 
-`git add {nome do arquivo}`
+```git add {nome do arquivo}```
 
-`git commit -m "text"`
+```git commit -m "text"```
 
-`git push origin {branch}`
+```git push origin {branch}```
 
 
 # Inspiração
