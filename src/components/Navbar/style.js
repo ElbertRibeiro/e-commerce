@@ -9,7 +9,7 @@ export const Navmenu = styled.div`
         padding: 10px 20px;
     }
 
-    .Logo {
+    img {
         margin-right: 63%;
         margin-top: 10px;
     
