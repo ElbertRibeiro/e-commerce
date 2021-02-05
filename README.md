@@ -4,12 +4,6 @@
 `npm install`
 
 
-Rodar backend
-
-`npm run backend`
-
-Onde dentro no script `backend` rodará o comando `./node_modules/.bin/json-server-auth ./backend/db.json --port 3001` na raiz do projeto 
-
 # Login
 
 Login: admin@example.com
@@ -17,17 +11,11 @@ senha: password
 
 # Contribuir
 
-'''
-git add {nome do arquivo}
-'''
+`git add {nome do arquivo}`
 
-'''
-git commit -m "text"
-'''
+`git commit -m "text"`
 
-'''
-git push origin {branch}
-'''
+`git push origin {branch}`
 
 
 # Inspiração
