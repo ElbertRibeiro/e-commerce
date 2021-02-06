@@ -1,40 +1,3 @@
-
-# Instalação
-
-`npm install`
-
-
-# Login
-
-Login: admin@example.com
-senha: password
-
-# Contribuir
-
-```
-git add {nome do arquivo}
-```
-
-```
-git commit -m "text"
-```
-
-```
-git push origin {branch}
-```
-
-
-# Inspiração
-
-[React-Ecommerce](https://github.com/sitepoint-editors/React-Ecommerce)
-
-[UI/UX](https://www.figma.com/file/k3vZl8UTyHS3c66qsLgUBA/Site-Sou-%2B-Store?node-id=0%3A1)
-
-[Inspiração](https://salinaka-ecommerce.web.app/)
-
-[Inspiração II](https://github.com/tarunyadav1/Ecommerce-store-React-Redux-Firebase-StripePayment)
-
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -56,14 +19,14 @@ git push origin {branch}
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/ElbertRibeiro/todo-list-electronJS/wiki"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ElbertRibeiro/e-commerce/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://elbertribeiro.github.io/e-commerce">View Demo</a>
     ·
-    <a href="https://github.com/elbertribeiro/todo-list-electronJS/issues/new">Report Bug</a>
+    <a href="https://github.com/elbertribeiro/e-commerce/issues/new">Report Bug</a>
     ·
-    <a href="https://github.com/elbertribeiro/todo-list-electronJS/issues">Request Feature</a>
+    <a href="https://github.com/elbertribeiro/e-commerce/issues">Request Feature</a>
   </p>
 </p>
 
@@ -127,7 +90,7 @@ npm install npm@latest -g
 
 1. Clone the repo
 ```sh
-git clone https://github.com/elbertribeiro/todo-list-electronJS.git
+git clone https://github.com/elbertribeiro/e-commerce.git
 ```
 2. Install NPM packages
 ```sh
@@ -152,7 +115,7 @@ _For more examples, please refer to the [Documentation](https://github.com/Elber
 
 ## Roadmap
 
-See the [open issues](https://github.com/elbertribeiro/todo-list-electronJS/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/elbertribeiro/e-commerce/issues) for a list of proposed features (and known issues).
 
 
 
@@ -164,7 +127,7 @@ Contributions are what make the open source community such an amazing place to b
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b main`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin main`)
+4. Push to the Branch (`git push origin dev`)
 5. Open a Pull Request
 
 
@@ -187,6 +150,10 @@ Project Link: [https://github.com/ElbertRibeiro/todo-list-electronJS](https://gi
 
 
 ## Referências
+* [React-Ecommerce](https://github.com/sitepoint-editors/React-Ecommerce)
+* [UI/UX](https://www.figma.com/file/k3vZl8UTyHS3c66qsLgUBA/Site-Sou-%2B-Store?node-id=0%3A1)
+* [Inspiração](https://salinaka-ecommerce.web.app/)
+* [Inspiração II](https://github.com/tarunyadav1/Ecommerce-store-React-Redux-Firebase-StripePayment)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
@@ -199,7 +166,7 @@ Project Link: [https://github.com/ElbertRibeiro/todo-list-electronJS](https://gi
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
 * [Readme](https://github.com/othneildrew/Best-README-Template)
-* [Project](https://blog.rocketseat.com.br/electron-construindo-aplicacoes-desktop-com-javascript/)
+
 
 
 
@@ -207,8 +174,8 @@ Project Link: [https://github.com/ElbertRibeiro/todo-list-electronJS](https://gi
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/elbertribeiro/todo-list-electronJS.svg?style=flat-square
-[contributors-url]: https://github.com/elbertribeiro/todo-list-electronJS/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/elbertribeiro/e-commerce.svg?style=flat-square
+[contributors-url]: https://github.com/elbertribeiro/e-commerce/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/elbertribeiro/todo-list-electronJS.svg?style=flat-square
 [forks-url]: https://github.com/ElbertRibeiro/todo-list-electronJS/network/members
 [stars-shield]: https://img.shields.io/github/stars/elbertribeiro/todo-list-electronJS.svg?style=flat-square
