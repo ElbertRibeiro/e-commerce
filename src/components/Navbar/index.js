@@ -1,6 +1,5 @@
 import React from 'react';
 import { Navmenu } from './style';
-
 import Logo from '../../assets/logo.jpeg';
 
 export default function Navbar() {

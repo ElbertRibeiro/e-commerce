@@ -1,9 +1,7 @@
 import React from 'react';
-
+import ShopDiv from '../Shop';
 export default function About () {
   return (
-    <div>
-        <h2>Teste</h2>
-    </div>
+      <ShopDiv />
   );
 }

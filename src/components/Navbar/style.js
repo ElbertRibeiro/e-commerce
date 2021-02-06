@@ -10,9 +10,8 @@ export const Navmenu = styled.div`
     }
 
     img {
-        margin-right: 63%;
+        margin-right: 64.7%;
         margin-top: 10px;
-    
         width: 6%;
     }
 `;
