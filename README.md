@@ -176,14 +176,14 @@ Project Link: [https://github.com/ElbertRibeiro/todo-list-electronJS](https://gi
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/elbertribeiro/e-commerce.svg?style=flat-square
 [contributors-url]: https://github.com/elbertribeiro/e-commerce/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/elbertribeiro/todo-list-electronJS.svg?style=flat-square
-[forks-url]: https://github.com/ElbertRibeiro/todo-list-electronJS/network/members
-[stars-shield]: https://img.shields.io/github/stars/elbertribeiro/todo-list-electronJS.svg?style=flat-square
-[stars-url]: https://github.com/elbertribeiro/todo-list-electronJS/stargazers
-[issues-shield]: https://img.shields.io/github/issues/elbertribeiro/todo-list-electronJS.svg?style=flat-square
-[issues-url]: https://github.com/elbertribeiro/todo-list-electronJS/issues
-[license-shield]: https://img.shields.io/github/license/elbertribeiro/todo-list-electronJS.svg?style=flat-square
-[license-url]: https://github.com/elbertribeiro/todo-list-electronJS/blob/main/LICENSE
+[forks-shield]: https://img.shields.io/github/forks/elbertribeiro/e-commerce.svg?style=flat-square
+[forks-url]: https://github.com/ElbertRibeiro/e-commerce/network/members
+[stars-shield]: https://img.shields.io/github/stars/elbertribeiro/e-commerce.svg?style=flat-square
+[stars-url]: https://github.com/elbertribeiro/e-commerce/stargazers
+[issues-shield]: https://img.shields.io/github/issues/elbertribeiro/e-commerce.svg?style=flat-square
+[issues-url]: https://github.com/elbertribeiro/e-commerce/issues
+[license-shield]: https://img.shields.io/github/license/elbertribeiro/e-commerce.svg?style=flat-square
+[license-url]: https://github.com/elbertribeiro/e-commerce/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/elbert-ribeiro/
 [product-screenshot]: assets/To-do.png
